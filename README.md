@@ -1,6 +1,6 @@
 toki! jan Nisula li lon.
 
-# Lipu Wan Tomo
+# lipu wan tomo
 
 A silly functional wrapper around lit with a silly name. The name is toki pona for "Document Fragment Structure".
 
